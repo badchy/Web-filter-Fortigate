@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="es-pe">
+<head>
+	<meta name="author" content="Basilio Quispe | Phone: +51986048748"/>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Filtro Web | MiEmpresa</title>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Barlow:wght@300&display=swap" rel="stylesheet">
+	<style type="text/css">
+		body {
+			background: darkred;
+			color: whitesmoke;
+			font-family: 'Barlow', sans-serif;
+			padding-top: 2rem;
+		}
+		.der {
+		  text-align: right;
+		  width: 50%;
+		}
+		.izq {
+		  text-align: left;
+		  width: 50%;
+		  color: #e2babe;
+		  text-transform: uppercase;
+		}
+		.centrado {
+			text-align: center;
+		}
+		i.fa-solid.fa-triangle-exclamation {
+			font-size: 7rem;
+		}
+		.svg-color{
+			opacity: 40%;
+		}
+	</style>
+</head>
+<body>
+	<h1 class="centrado"><i class="fa-solid fa-triangle-exclamation"></i></h1>
+	<h2 class="centrado">OOPS! SITIO WEB BLOQUEADO</h2>
+			<table style="width: 100%; padding-bottom: 1.5rem;" >
+				<tbody>
+					<tr>
+						<td class="der">Usuario:</td>
+						<td class="izq">%%USERNAME%%</td>
+					</tr>
+					<tr>
+						<td class="der">URL:</td>
+						<td class="izq">%%PROTOCOL%%://%%URL%%</td>
+					</tr>
+					<tr>
+						<td class="der">Categoría:</td>
+						<td class="izq">%%CATEGORY%%</td>
+					</tr>
+					<tr>
+						<td class="der">Perfil:</td>
+						<td class="izq">%%GROUPNAME%%</td>
+					</tr>
+					<tr>
+						<td class="der">Política:</td>
+						<td class="izq">%%POLICY%%</td>
+					</tr>
+					<tr>
+						<td colspan="2" align="center" style="padding-top: 4rem;">
+							<img class="svg-color" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Original_Adidas_logo.svg" width="120px">
+								
+					</tr>
+				</tbody>
+			</table>
+<script src="https://kit.fontawesome.com/d31714b553.js" crossorigin="anonymous"></script>
+</body>
+</html>

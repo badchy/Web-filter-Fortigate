@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="es-pe">
+<head>
+	<meta name="author" content="Basilio Quispe | Phone: +51986048748"/>
+
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Varela+Round&display=swap" rel="stylesheet">
+	<title>Filtro Web | MiEmpresa</title>
+	<style type="text/css">
+		body {
+			font-family: 'Varela Round', sans-serif;
+			margin: 0px;
+			background-color: #16469d;
+		}
+
+		.background {
+		    width: 100%;
+		    height: 100%;
+		    margin: 0;
+		    padding: 0;
+		}
+
+		.content {
+		    width: 70%;
+		    height: 600px;
+		    background-color: white;
+
+		    position:absolute;
+		    top:50%;
+		    left:50%;
+		    margin-left:-35%;/* half width*/
+		    margin-top:-300px;/* half height*/
+
+		    border-radius: 6px;
+
+			box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.14);
+			-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.14);
+			-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.14);
+		}
+		.der {
+		  text-align: center;
+		  width: 60%;
+		  padding: 0 70px 0;
+		}
+		.izq {
+		  width: 40%;
+		}
+		h1{
+			color: #ee3042;
+			font-size: 5rem;
+		}
+		h2{
+			color: #16469d;
+			margin-top: -40px;
+		}
+		p, span {
+			color: #56575c;
+		}
+		span{
+			font-size: .7rem;
+			text-transform: uppercase;
+		}
+		p.footer {
+			text-align: center;
+			color: #7ca3e9;
+			font-size: .7rem;
+		}
+	</style>
+	<link rel="icon" type="image/png" href="https://www.fortinet.com/etc/designs/fortinet/favicon.ico"/>
+</head>
+<body>
+	<div class="background">
+	    <div class="content">
+			<table style="width: 100%; padding-bottom: 1.5rem; height: 100%;" >
+				<tbody>
+					<tr>
+						<td class="der">
+							<h1>Hey!</h1>
+							<h2>Intentas ingresar a un sitio bloqueado</h2>
+							<p>%%USERNAME%% tenemos políticas de navegación web.</p>
+							<span>URL: %%PROTOCOL%%://%%URL%%</span> <br>
+							<span>Categoría: %%CATEGORY%%</span> <br>
+							<span>Perfil: %%GROUPNAME%%</span> <br> &nbsp;<br> &nbsp;
+							<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Original_Adidas_logo.svg" width="60px">
+						</td>
+						<td class="izq"><img src="https://i.ibb.co/VNHNwz3/uncle-sam.png" alt="Tio SAM"></td>
+					</tr>
+				</tbody>
+			</table>
+			<p class="footer">Seguridad de la Información | Gerencia de TIC</p>
+	    </div>
+	</div>
+</body>
+</html>
