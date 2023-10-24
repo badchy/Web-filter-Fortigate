@@ -1,11 +1,11 @@
 # Fortigate Filtros Web
 Plantillas para remplazar los HTML para FortiGuard Filtros Web página bloqueada
 
-Hola gente,
+Hola red!
 
-Aquí comparto públicamente algunas plantillas que he estado haciendo en algunos trabajos anteriores. Espero que te guste
+Aquí comparto públicamente algunas plantillas web para remplazar el mensaje por defecto del bloqueo Web de #Fortinet. Espero que te guste
 
-Si quieres colaborar con el proyecto y que progresivamente puedas subir nuevas plantillas, en paypal me encuentras como: basilioquispe86
+❤️ Puedes apoyar este proyecto desde <a href="#">Yape</a> (solo Perú) o desde <a href="#">Paypal</a>
 
 ---- Translate by Google ----
 
