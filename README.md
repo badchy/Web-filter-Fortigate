@@ -12,7 +12,7 @@ Aquí comparto públicamente algunas plantillas web para remplazar el mensaje de
 4. Remplaza el contenido del HTML de tu gusto (No olvides de personalizarlo a tu necesidad)
 5. Disfruta
 
-❤️ Puedes apoyar este proyecto desde <a href="#">Yape</a> (solo Perú) o desde <a href="#">Paypal 🌎</a>
+❤️ Puedes apoyar este proyecto desde <a href="#">Yape</a> (solo Perú) o desde <a href="#">Paypal</a> 🌎
 
 ---- Translate by Google ----
 
@@ -30,4 +30,4 @@ Here I publicly share some web templates to replace the default Web blocking mes
 4. Replace the HTML content to your liking (Don't forget to customize it to your needs)
 5. Enjoy
 
-❤️ You can support this project from <a href="#">Yape</a> (Peru only) or from <a href="#">Paypal 🌎</a>
+❤️ You can support this project from <a href="#">Yape</a> (Peru only) or from <a href="#">Paypal</a> 🌎
