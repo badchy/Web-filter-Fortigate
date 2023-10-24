@@ -14,7 +14,7 @@ Aquí comparto públicamente algunas plantillas web para remplazar el mensaje de
 4. Remplaza el contenido del HTML de tu gusto (No olvides de personalizarlo a tu necesidad)
 5. Disfruta
 
-❤️ Puedes apoyar este proyecto desde <a href="https://i.ibb.co/kxhg65R/yape-colabora.jpg">Yape</a> (solo Perú) o desde <a href="https://paypal.me/basilioquispe86?country.x=PE&locale.x=es_XC">Paypal</a> 🌎
+❤️ Puedes apoyar este proyecto desde <a href="https://i.ibb.co/kxhg65R/yape-colabora.jpg" target="_blank">Yape</a> (solo Perú) o desde <a href="https://paypal.me/basilioquispe86?country.x=PE&locale.x=es_XC">Paypal</a> 🌎
 
 ---
 
@@ -36,4 +36,4 @@ Here I publicly share some web templates to replace the default Web blocking mes
 4. Replace the HTML content to your liking (Don't forget to customize it to your needs)
 5. Enjoy
 
-❤️ You can support this project from <a href="https://i.ibb.co/kxhg65R/yape-colabora.jpg">Yape</a> (Peru only) or from <a href="https://paypal.me/basilioquispe86?country.x=PE&locale.x=es_XC">Paypal</a> 🌎
+❤️ You can support this project from <a href="https://i.ibb.co/kxhg65R/yape-colabora.jpg" target="_blank">Yape</a> (Peru only) or from <a href="https://paypal.me/basilioquispe86?country.x=PE&locale.x=es_XC">Paypal</a> 🌎
