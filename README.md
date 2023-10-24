@@ -32,8 +32,8 @@ Here I publicly share some web templates to replace the default Web blocking mes
 ## Use
 1. Check the "Template" folders of this project, choose the one you like the most.
 2. Log in to your Fortigate as administrator
-3. Go to: XXX
+3. Go to: System / Replacement Messages / Security / URL Block Page
 4. Replace the HTML content to your liking (Don't forget to customize it to your needs)
 5. Enjoy
 
-❤️ You can support this project from <a href="#">Yape</a> (Peru only) or from <a href="#">Paypal</a> 🌎
+❤️ You can support this project from <a href="https://i.ibb.co/kxhg65R/yape-colabora.jpg">Yape</a> (Peru only) or from <a href="https://paypal.me/basilioquispe86?country.x=PE&locale.x=es_XC">Paypal</a> 🌎
