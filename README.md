@@ -13,10 +13,10 @@ Aquí comparto públicamente algunas plantillas web para remplazar el mensaje de
 
 ## Uso
 1. Revisa las carpetas "Template" de este proyecto, elije el que más te guste.
-2. Logea en tu Fortigate como administrador
-3. Dirígete a:  System / Replacement Messages / Security / URL Block Page
-4. Remplaza el contenido del HTML de tu gusto (No olvides de personalizarlo a tu necesidad)
-5. Disfruta
+1. Logea en tu Fortigate como administrador
+1. Dirígete a:  System / Replacement Messages / Security / URL Block Page
+1. Remplaza el contenido del HTML de tu gusto (No olvides de personalizarlo a tu necesidad)
+1. Disfruta
 
 > ❤️ Puedes apoyar este proyecto desde <a href="https://i.ibb.co/kxhg65R/yape-colabora.jpg" target="_blank">Yape</a> (solo Perú) o desde <a href="https://paypal.me/basilioquispe86?country.x=PE&locale.x=es_XC">Paypal</a> 🌎
 
@@ -40,9 +40,9 @@ Here I publicly share some web templates to replace the default Web blocking mes
 
 ## Use
 1. Check the "Template" folders of this project, choose the one you like the most.
-2. Log in to your Fortigate as administrator
-3. Go to: System / Replacement Messages / Security / URL Block Page
-4. Replace the HTML content to your liking (Don't forget to customize it to your needs)
-5. Enjoy
+1. Log in to your Fortigate as administrator
+1. Go to: System / Replacement Messages / Security / URL Block Page
+1. Replace the HTML content to your liking (Don't forget to customize it to your needs)
+1. Enjoy
 
 > ❤️ You can support this project from <a href="https://i.ibb.co/kxhg65R/yape-colabora.jpg" target="_blank">Yape</a> (Peru only) or from <a href="https://paypal.me/basilioquispe86?country.x=PE&locale.x=es_XC">Paypal</a> 🌎
